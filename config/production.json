@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://natuey:natuey123@globalhunch-yulms.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "chit1907"
+}
